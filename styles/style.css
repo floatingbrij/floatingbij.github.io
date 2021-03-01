@@ -1,0 +1,17 @@
+:root {
+  --opa: 0%;
+}
+
+html,body{
+  background-color: #222222;
+  color: white;
+  font-family: Overpass;
+}
+header{
+  text-align: center;
+}
+p {
+  font-size: 45px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+* { color:#fff; text-decoration: none;}
