@@ -24,4 +24,7 @@ h3 {
   font-size: 30px;
   font-family: 'IBM Plex Mono', monospace;
 }
+hr {
+  width: 50px;
+}
 * { color:#fff; text-decoration: none;}
