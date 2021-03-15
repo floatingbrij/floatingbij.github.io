@@ -5,7 +5,7 @@
 
 
 html,body{
-  padding-top: .5%;
+
   background-color: #222222;
   color: white;
   
@@ -14,17 +14,27 @@ html,body{
 header{
   text-align: center;
 }
+#socials {
+  text-align: center;
+}
+.socialimg {
+  padding-top: 15px;
+  width: 30px;
+}
+#sociallink {
+  padding-bottom: 15px;
+}
 h1 {
-  font-size: 45px;
+  font-size: 38px;
   color: whitesmoke;
   font-family: 'IBM Plex Mono', monospace;
 }
 h3 {
   color: orangered;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 'IBM Plex Mono', monospace;
 }
 hr {
-  width: 50px;
+  width: 40%;
 }
 * { color:#fff; text-decoration: none;}
