@@ -1,0 +1,63 @@
+html, body{
+  background-color: #222222;
+  color: white;
+}
+.outer-layer{
+  
+  font-family: 'IBM Plex Mono', monospace;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.st-layer{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+  height: 100px;
+}
+h1{
+  font-size: 45px;
+
+}
+#scroll-text{
+  color: red;
+  font-size: 23px;
+  width: 500px;
+  text-align: center;
+
+  height: 65px;
+  
+}
+.dividing-line{
+  width: 700px;
+}
+.socials{
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: large;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.socials-img{
+  width: 30px;
+  height: 30px;
+  padding-right: 10px;
+
+}
+.oops{
+  width: 34px;
+  height: 34px;
+}
+.socials-txt{
+  
+  font-family: Hammersmith;
+}
+#tabtab{
+  padding-top: 5px;
+  padding-right: 20px;
+}
